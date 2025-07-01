@@ -19,3 +19,5 @@ public class Azucarero {
         this.cantidadDeAzucar -= cantidadDeAzucar;
     }
 }
+
+// Este es un comentario para la nueva funcionalidad
